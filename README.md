@@ -1,16 +1,8 @@
-# magic_8_ball
+# Magic 8 Ball App
 
-I'll Answer You
+Magic 8 Ball is a simple Flutter-based app that simulates a classic Magic 8 Ball toy, providing answers to yes-or-no questions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Classic and nostalgic user interface
+- Fun and entertaining
