@@ -7,9 +7,9 @@ Magic 8 Ball is a simple Flutter-based app that simulates a classic Magic 8 Ball
 - Classic and nostalgic user interface
 - Fun and entertaining
 
-## Screenshots
+##GIF
 
-(Add screenshots or demo GIFs here)
+![magic](https://github.com/YashM021/Dicee/assets/156659124/eb59ed26-7ceb-406f-9640-dcd9da0ac0af)
 
 ## Getting Started
 
